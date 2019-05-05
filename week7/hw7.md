@@ -4,11 +4,11 @@
 
     - 绘制用例图模型（到子用例）
 
-        <!-- <img src="./1.png" width="50%" /> -->
+        <img src="./1.png" width="50%" />
 
     - 给出 make reservation 用例的活动图
 
-        <!-- <img src="./2.png" width="50%" /> -->
+        <img src="./2.png" width="50%" />
 
 2. 根据课程练习“投递员使用投递箱给收件人快递包裹”的业务场景
 
