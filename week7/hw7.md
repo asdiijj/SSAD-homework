@@ -4,7 +4,7 @@
 
     - 绘制用例图模型（到子用例）
 
-        <img src="./1.png" width="50%" />
+        <img src="./1.png" />
 
     - 给出 make reservation 用例的活动图
 
